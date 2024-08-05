@@ -1,5 +1,5 @@
 # datasci266-final-project
-Final Project for DATASCI 266 done by Eric Shen and Matthew Zhang
+Final Project for DATASCI 266 Summer 2024 done by Eric Shen and Matthew Zhang
 
 ## Title: 
 Harnessing AI for Primary Care: Creating a Medical Summarizer with Fine-Tuned LLMs for Efficient Patient Outcomes
